@@ -10,7 +10,7 @@ on:
                 ###############################################
                   ### Replace <username> with GitHub username ###
                     ###############################################
-                      AZURE_WEBAPP_NAME: <username>-ttt-app
+                      AZURE_WEBAPP_NAME: <herdthecat>-ttt-app
 
                       jobs:
                         setup-up-azure-resources:
